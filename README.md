@@ -1,6 +1,5 @@
 ```diff
 Felipe Scrochio Custódio
-25 years old
 Computer Science undergraduate student
 ICMC - University of Sao Paulo
 
