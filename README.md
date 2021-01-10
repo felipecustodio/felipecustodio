@@ -1,18 +1,9 @@
-```diff
-Felipe Scrochio Custódio
-Computer Science undergraduate student
-ICMC - University of Sao Paulo
+![Profile](snapshot.png)
 
-Resumé @ https://felipecustodio.github.io/resume/
-Personal Website @ https://felipecustodio.github.io/
+▨ [Resumé](https://felipecustodio.github.io/resume/)
 
-Some of my hobbies and interests include: 
+▨ [GitHub](https://github.com/felipecustodio)
 
-Experimenting with music:
-Spotify: https://sptfy.com/crochi
-Soundcloud: https://soundcloud.com/crochi
+▨ [LinkedIn](https://www.linkedin.com/in/fscustodio/)
 
-Generative art and creative coding:
-https://github.com/felipecustodio/sketchbook
-
-```
+▨ [Spotify](https://open.spotify.com/artist/3ZNBSMlZqrHjr7pyz4gI13?si=z6_CTEwfSLiZcQvQsuWs7g)
