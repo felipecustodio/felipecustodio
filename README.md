@@ -1,4 +1,33 @@
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&link=https://github.com/felipecustodio)](https://github.com/felipecustodio)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fscustodio/)](https://www.linkedin.com/in/fscustodio/)
+```
+$ cat /home/user
 
-https://felipecustodio.dev/
+:::    ::::::::::::::::   ::: 
+:+:    :+::+:       :+:   :+: 
++:+    +:++:+        +:+ +:+  
++#++:++#+++#++:++#    +#++:   
++#+    +#++#+          +#+    
+#+#    #+##+#          #+#    
+###    #############   ###  
+
+NAME=Felipe Custódio
+LOCATION=Brazil
+LINKEDIN=https://www.linkedin.com/in/fscustodio/
+WEBSITE=https://felipecustodio.dev/
+
+                   ./o.                   
+                   ./sssso-                 ---------------------
+                 `:osssssss+-               OS: EndeavourOS x86_64
+               `:+sssssssssso/.             Kernel: Linux 6.10.2-arch1-2
+             `-/ossssssssssssso/.           ---------------------
+           `-/+sssssssssssssssso+:`         
+         `-:/+sssssssssssssssssso+/.        
+       `.://osssssssssssssssssssso++-      
+      .://+ssssssssssssssssssssssso++:      
+    .:///ossssssssssssssssssssssssso++:    
+  `:////ssssssssssssssssssssssssssso+++.   
+`-////+ssssssssssssssssssssssssssso++++-    
+ `..-+oosssssssssssssssssssssssso+++++/`    
+   ./++++++++++++++++++++++++++++++/:.      
+  `:::::::::::::::::::::::::------``
+
+```
