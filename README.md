@@ -3,9 +3,5 @@
 </h1>
 
 <h1 align="center">
-<img src="https://streak-stats.demolab.com?user=felipecustodio&theme=transparent&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
-</h1>
-
-<h1 align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipecustodio&theme=github" />
 </h1>
