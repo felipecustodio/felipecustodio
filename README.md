@@ -4,7 +4,7 @@
   <p><strong>Software Engineer from Brazil, building reliable systems and useful little things.</strong></p>
 </div>
 
-By day, I build Python backend services and challenging data-extraction pipelines at [Belvo](https://belvo.com). By night, I make cool tools and games with [Fofinhos Studios](https://github.com/fofinhos-studios).
+By day, I build Python backend services and challenging data-extraction pipelines at [Belvo](https://belvo.com). By night, I make cool tools and games with [🧡💜 Fofinhos Studios](https://github.com/fofinhos-studios).
 
 - 📚 [hon](https://github.com/fofinhos-studios/hon) — a calm reading planner
 - 🎮 [Gaming Clock](https://github.com/fofinhos-studios/gamingclock) — a realistic planner for your game backlog
