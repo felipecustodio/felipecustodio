@@ -8,9 +8,3 @@
 By day, I build Python backend services and data-extraction pipelines at [Belvo](https://belvo.com). 
 
 By night, I make cool tools and games with [🧡💜 Fofinhos Studios](https://github.com/fofinhos-studios).
-
-- 📚 [hon](https://github.com/fofinhos-studios/hon) • a calm reading planner
-- 🎮 [Gaming Clock](https://github.com/fofinhos-studios/gamingclock) • a planner for your videogame backlog
-- 🎵 [Playnite Sounds Manager](https://github.com/felipecustodio/playnite-sounds-manager) • a custom sound-pack creator for Playnite
-
-
